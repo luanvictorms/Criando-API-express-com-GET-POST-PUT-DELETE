@@ -7,7 +7,7 @@
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/luanvictorms/Criando-API-express-com-GET-POST-PUT-DELETE)
 
 
-> Criando API express com GET,POST,PUT,DELETE
+> Criando API express com GET,POST,PUT,DELETE utilizando Postman
 
 
 [⬆ Voltar ao topo](#nome-do-projeto)<br>
