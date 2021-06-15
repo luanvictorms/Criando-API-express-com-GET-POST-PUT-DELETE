@@ -9,5 +9,7 @@
 
 > Criando API express com GET,POST,PUT,DELETE utilizando Postman
 
+ ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+
 
 [⬆ Voltar ao topo](#nome-do-projeto)<br>
